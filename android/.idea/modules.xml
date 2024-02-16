@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheShopkeeper.iml" filepath="$PROJECT_DIR$/.idea/modules/TheShopkeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheShopkeeper.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheShopkeeper.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1640721646/TheShopkeeper.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1640721646/TheShopkeeper.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1162555243/TheShopkeeper.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1162555243/TheShopkeeper.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/40751535/TheShopkeeper.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/40751535/TheShopkeeper.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-981481607/TheShopkeeper.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-981481607/TheShopkeeper.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1688320052/TheShopkeeper.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1688320052/TheShopkeeper.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1030989520/TheShopkeeper.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1030989520/TheShopkeeper.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1673436469/TheShopkeeper.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1673436469/TheShopkeeper.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/797838221/TheShopkeeper.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/797838221/TheShopkeeper.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-692450362/TheShopkeeper.react-native-simple-toast.iml" filepath="$PROJECT_DIR$/.idea/modules/-692450362/TheShopkeeper.react-native-simple-toast.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406428352376",
+    "project_id": "theshopkeeper",
+    "storage_bucket": "theshopkeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406428352376:android:2ce063e3aae288d764128d",
+        "android_client_info": {
+          "package_name": "com.theshopkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406428352376-tp75guv2cg44b7hld17e8n6mlbu2jbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQOfoXfnF2-pve6px7qdQKD2A5v6xVKw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406428352376-tp75guv2cg44b7hld17e8n6mlbu2jbcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

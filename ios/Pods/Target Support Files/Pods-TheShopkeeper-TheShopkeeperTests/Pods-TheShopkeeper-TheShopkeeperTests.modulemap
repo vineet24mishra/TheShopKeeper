@@ -1,0 +1,6 @@
+module Pods_TheShopkeeper_TheShopkeeperTests {
+  umbrella header "Pods-TheShopkeeper-TheShopkeeperTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
